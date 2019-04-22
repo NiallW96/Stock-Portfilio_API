@@ -12,7 +12,7 @@ When running a demo of this api please follow these instructions:
 1. When the demo is run you will be prompted to enter in a command, these are the following commands and their purpose:
 a (add stock to portfolio), d (delete stock), u (update stock), q (get stock quote), s (search for stock), i (get stock information), g (get current portfolio).
 
-When a command has been entered you will then be prompted to enter in a stock and maybe one other parameter. The prompt will display the parameters needed to be entered.
+When a command has been entered you will then be prompted to enter in a stock and maybe one other parameter. The prompt will display the parameters needed to be entered. 
  
 All parameters need to be on the same line and will be split by a single whitespace. 
 If you have entered i please enter the following commands for the time period:
