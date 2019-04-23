@@ -1,5 +1,5 @@
 # Stock-Portfilio_API
-This is an api created for a techincal exercise for WiPro.
+This is an api created for a techincal exercise.
 
 This api can be tested by simply running as a normal java program, i.e. compile and the run. 
 The api has the capability for add/deleting and updating stocks to a portfolio. 
