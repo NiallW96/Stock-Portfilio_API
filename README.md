@@ -1,4 +1,4 @@
-# WiPro_Stock-Portfilio_API
+# Stock-Portfilio_API
 This is an api created for a techincal exercise for WiPro.
 
 This api can be tested by simply running as a normal java program, i.e. compile and the run. 
